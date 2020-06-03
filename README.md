@@ -2,12 +2,13 @@
 This repository will show how to acquire the propietary HCO codes and NPI numbers from Health Care Options.
 
 
-Getting Started
+# Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. You would have to update to the latest version of python. Once it is installed, you would have to download the scrapy module. Use your terminal or your preferred IDE to download the scrapy module. 
 
-Prerequisites
+# Prerequisites
 Laterst version of Python and Scrapy module. 
 
+# Instructions
 In command module/terminal run install scrapy. Once scrapy has begun its project, you need to input into the terminal scrapy startproject "project name." Once scrapy has downloaded all the files you can create a new python file within the "spiders" folder. 
 
 Copy paste the python code into the first file and then locate the items.py files and copy paste all the information there. 
